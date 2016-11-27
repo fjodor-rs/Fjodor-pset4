@@ -12,7 +12,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String _ID = "_id";
     public static final String TODO = "todo";
 
-    static final String DB_NAME = "TODO_LIST.DB";
+    static final String DB_NAME = "TODO_DATABASE.DB";
 
     static final int DB_VERSION = 1;
 
